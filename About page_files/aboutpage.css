@@ -1,0 +1,16 @@
+body{
+background-color: lightslategray;
+margin:0px;
+
+
+
+}
+.box{
+width:400px;
+height:400px;
+background: mediumorchid;
+/* position: relative; */
+
+
+
+}
